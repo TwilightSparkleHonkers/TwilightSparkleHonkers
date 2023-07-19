@@ -1,5 +1,5 @@
 hello this is me!
-you can contact me using discord: Twinkle Sprinkle#2780
+you can contact me using discord: @twinklesprinkle
 
 <!---
 TwilightSparkleHonkers/TwilightSparkleHonkers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
